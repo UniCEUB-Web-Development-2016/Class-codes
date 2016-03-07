@@ -13,4 +13,9 @@ class Math
 	{
 		return sqrt(($catetoAdj * $catetoAdj) + ($catetoOp * $catetoOp));	
 	}
+
+	//All students should implement a user graphic interface
+        //for getHipotenusa function
+        //the interface must be implemented in HTML
+        //and the code must be commited on Git
 }
