@@ -8,4 +8,9 @@ class Math
 	{
 		return $this->pi * $radius * $radius;
 	}
+
+	public function getHipotenusa($catetoAdj, $catetoOp)
+	{
+		return sqrt(($catetoAdj * $catetoAdj) + ($catetoOp * $catetoOp));	
+	}
 }
