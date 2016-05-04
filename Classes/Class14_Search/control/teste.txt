@@ -1,0 +1,6 @@
+
+http://localhost/request/user/?name=cebola&last_name=roxa&birthdate=1980-12-25&email=cebolaroxa@tomate.vegetais&phone=9987654321&password=CebolaRox@
+
+Bonus do dia - Danilo 10%
+               Fabio - 7%
+                
